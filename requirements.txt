@@ -1,0 +1,16 @@
+crewai
+langchain
+langchain-openai
+openai
+firebase-admin
+streamlit
+streamlit-authenticator
+python-dotenv
+email-validator
+bcrypt
+pandas
+plotly
+requests
+streamlit-option-menu
+validators
+urllib3
